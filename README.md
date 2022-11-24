@@ -4,3 +4,4 @@
 **Workflow:** Users select the location from map and the location points is calculated are passed to the ML model which then displace the result as the price of the area selected.
 **Tech Stack:** Framework used: Android Studio
 Database used: Firebase/sqllite
+API used: Here tech API
